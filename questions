@@ -1,0 +1,13 @@
+Question: Consider a function in Python whose execution terminates with the statement: 
+           return
+           Answer: None
+           
+Question: Which of the following Python expressions can be used as a key to a dictionary in Python?
+          Answer: False, 0, "0", (0)
+          
+Question: In SimpleGUI(and most other GUIs),  a point on the canvas is indexed by two coordinates. Which statement below correctly characterizes the change in the 
+          position of a point on the canvas as these coordinates are varied?
+          Answer: Increasing the first coordinate moves the point right. Increasing the second coordinate moves the point downward.
+          
+
+          
